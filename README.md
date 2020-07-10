@@ -3,7 +3,7 @@ this is a test
 
 ![](https://pociot.dev/counter)
 
-![](https://teknobug.teknogeek.io/ghxsstest)
+![](https://teknobug.teknogeek.io/ghxsstest?1)
 
 <b>asd123</b>
 <h1>foobar</h1>
