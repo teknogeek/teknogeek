@@ -1,8 +1,6 @@
 this is a test
 # Welcome to my GitHub profile
 
-![](https://pociot.dev/counter)
-
 ![](https://teknobug.teknogeek.io/ghxsstest?1)
 
 <b>asd123</b>
